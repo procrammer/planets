@@ -2,4 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-.dat
+a.dat
+b.dat
+c.dat
+results/
